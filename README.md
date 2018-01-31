@@ -1,4 +1,4 @@
-# Intel® Computer Vision SDK | Hello World Tutorial
+# Intel® Computer Vision SDK | Hello World Tutorialx
 
 
 ## Prerequisite checklist
